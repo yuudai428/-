@@ -3,4 +3,5 @@ int main(void)
 {
 printf("aaa")
 }
+kbgfsbgsngｊぎhgioshnJsorg
 return 0;
